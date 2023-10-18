@@ -1,38 +1,38 @@
-## 👋 Hello, I'm Robson A. Gomes
+## 👋 Olá, eu sou Robson A. Gomes
 
-## 🚀 About Me
+## 🚀 Sobre Mim
 
 <p>
-Passionate about technology, I'm constantly learning and seeking opportunities to grow in the field of Development. I'm currently participating in the Santander Backend Java Bootcamp.
+Apaixonado por tecnologia, estou constantemente aprendendo e buscando oportunidades para crescer na área de Desenvolvimento. Atualmente, estou participando do Santander Backend Java Bootcamp.
 </p>
 
-## 🛠️ Skills and Knowledge
+## 🛠️ Habilidades e Conhecimentos
 
 <ul>
 <li>
-<img src="https://img.shields.io/badge/Version%20Control-Git%20%26%20GitHub-000?style=for-the-badge&logo=git&logoColor=30A3DC">
+<img src="https://img.shields.io/badge/Controle%20de%20Versão-Git%20%26%20GitHub-000?style=for-the-badge&logo=git&logoColor=30A3DC">
 </li>
 <li>
-<img src="https://img.shields.io/badge/Project%20Development-DIO%20Challenges-000?style=for-the-badge&logo=github&logoColor=30A3DC">
+<img src="https://img.shields.io/badge/Desenvolvimento%20de%20Projetos-Desafios%20DIO-000?style=for-the-badge&logo=github&logoColor=30A3DC">
 </li>
 </ul>
 
-## 📚 Learning Resources
+## 📚 Recursos de Aprendizado
 
 <p>
-I'm using the following resources to enhance my skills:
+Estou usando os seguintes recursos para aprimorar minhas habilidades:
 </p>
 
 <ul>
-<li>📖 DIO roadmaps to build a solid knowledge foundation</li>
-<li>🗒️ Notion for detailed study organization and goals</li>
-<li>📌 Participating in the Santander Backend Java Bootcamp</li>
+<li>📖 Roadmaps da DIO para construir uma base de conhecimento sólida</li>
+<li>🗒️ Notion para organização detalhada de estudos e metas</li>
+<li>📌 Participando do Santander Backend Java Bootcamp</li>
 </ul>
 
-## 📫 Get in Touch
+## 📫 Entre em Contato
 
 <p>
-Connect with me for discussions, opportunities, and networking:
+Conecte-se comigo para discussões, oportunidades e networking:
 </p>
 
 <p align="center">
@@ -43,22 +43,22 @@ Connect with me for discussions, opportunities, and networking:
 <img src="https://img.shields.io/badge/E--mail-000?style=for-the-badge&logo=microsoft-outlook&logoColor=30A3DC">
 </a>
 <a href="https://www.dio.me/users/robsonagomes">
-<img src="https://img.shields.io/badge/DIO%20Profile-30A3DC?style=for-the-badge">
+<img src="https://img.shields.io/badge/Perfil%20na%20DIO-30A3DC?style=for-the-badge">
 </a>
 </p>
 
-## 📊 GitHub Statistics
+## 📊 Estatísticas do GitHub
 
 <p>
-Check out my GitHub statistics:
+Confira minhas estatísticas do GitHub:
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=roalgo123&show_icons=true&theme=dark" alt="GitHub Statistics">
+<img src="https://github-readme-stats.vercel.app/api?username=roalgo123&show_icons=true&theme=dark" alt="Estatísticas do GitHub">
 </p>
 
 ---
 
 <p align="center">
-<em>My learning journey is guided by exploring Development and organizing with Notion, heading towards employability!</em>
+<em>Minha jornada de aprendizado é guiada pela exploração do Desenvolvimento e organização com o Notion, caminhando em direção à empregabilidade!</em>
 </p>
